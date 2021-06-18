@@ -15,4 +15,4 @@ git clone https://github.com/V00CIXD/RMBF
 
 cd RMBF
 
-python2 RMBF.py 
+python2 rmbf.py
